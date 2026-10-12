@@ -75,7 +75,13 @@ Get-FileHash .\PathOfFaustus-vX.Y.Z-win-x64.zip -Algorithm SHA256
 
 ## Updating
 
-Download the new zip and extract it over your old folder, or into a new one. Your settings and searches are kept, because they are stored separately in `%LOCALAPPDATA%`.
+The app checks for a new version each time it starts. When one is available, a banner offers to download it; your searches keep running during the download, and you choose when to restart. Your settings and searches are kept, because they are stored separately in `%LOCALAPPDATA%`.
+
+Updating needs write access to the folder the app runs from. If it is under `C:\Program Files`, download the new zip by hand instead.
+
+## License key
+
+Settings has a License card. A key unlocks a few extra features: trade stats, guild stash dumping, listing purchases with Faustus, and search export. Everything else works without one.
 
 ## Reporting bugs
 

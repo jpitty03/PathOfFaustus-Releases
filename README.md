@@ -39,8 +39,10 @@ You don't need to install .NET separately. The download includes everything else
 ## Install
 
 1. Download `PathOfFaustus-vX.Y.Z-win-x64.zip` from the [latest release](https://github.com/jpitty03/PathOfFaustus-Releases/releases/latest).
-2. Extract the **whole** zip to a folder.
+2. Extract both files, `PathOfFaustus.exe` and `PathOfFaustus.pri`, to the same folder.
 3. Run `PathOfFaustus.exe`.
+
+The first launch of each new version takes a few extra seconds while the app unpacks itself to `%TEMP%\.net\PathOfFaustus`. Later launches start normally.
 
 The app isn't code-signed, so Windows SmartScreen may warn you the first time you run it. Click **More info**, then **Run anyway**.
 

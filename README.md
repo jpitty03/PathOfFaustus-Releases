@@ -81,7 +81,7 @@ Updating needs write access to the folder the app runs from. If it is under `C:\
 
 ## License key
 
-Settings has a License card. A key unlocks a few extra features: trade stats, guild stash dumping, listing purchases with Faustus, and search export. Everything else works without one.
+Settings has a License card. A key unlocks a few extra features: trade stats, guild stash dumping, listing purchases with Faustus, and search export. Everything else works without one. A key works on one computer, the first to activate it; removing and re-entering it on the same computer is fine.
 
 ## Reporting bugs
 

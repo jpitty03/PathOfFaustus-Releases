@@ -20,9 +20,9 @@ A free Windows desktop app for Path of Exile trading. Save your trade searches, 
 - **Manual searches:** works through a search's listings one by one, travelling to each seller and buying.
 - **Bulk searches:** re-runs a trade search on a timer you choose and buys every listing under your max price.
 - **Folders and filters:** group searches into folders and filter them by type, status or text.
-- **Price limits:** each search has a max buy price and a resell target, in chaos, divine or exalted orbs.
+- **Price limits:** each search has a max buy price in chaos, divine or exalted orbs, and a resell price for searches that list with Faustus.
 - **Currency guard:** stops a search once your chaos and divine orbs no longer cover its max price.
-- **Stash dumping:** purchased items go to a dump tab in your personal or guild stash.
+- **Per-search destination:** each search chooses where its purchases go: a dump tab in your personal stash, the guild stash, or a Faustus listing at the resell price.
 - **Scheduled breaks:** pauses automation for a set number of minutes at the interval you choose.
 - **Force stop hotkey:** `F3` stops everything at once. You can change the key in Settings.
 - **Trade stats:** shows completed buys, total spent, estimated resell value and profit, per search and overall.
